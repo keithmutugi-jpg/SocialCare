@@ -1,51 +1,65 @@
 # SocialCare
 
-SocialCare is a simple multi-page community support website built with HTML and Tailwind CSS. It presents an organization focused on practical care, education access, health support, counseling, and food assistance.
+A responsive website for social care services, providing support and resources for communities.
 
-## Overview
+## Description
 
-This project is a static website designed to share information about SocialCare's mission and services in a clean, accessible layout. It includes:
-
-- A home page with a hero section and service highlights
-- An about page with the mission, vision, and values
-- A services page describing the key support programs
-- A contact page with a message form interface
-
-## Pages
-
-- `index.html` - landing page and service highlights
-- `about.html` - organization background and purpose
-- `services.html` - detailed service offerings
-- `contact.html` - contact form page
-
-## Built With
-
-- HTML5
-- Tailwind CSS via CDN
-
-## Project Structure
-
-SocialCare
-index.html
-about.html
-services.html
-contact.html
-README.md
-```
+SocialCare is a web platform designed to help communities access essential social services including community support, education, health services, and counselling. The site features a clean, modern design built with HTML and Tailwind CSS.
 
 ## Features
 
-- Responsive layout using Tailwind utility classes
-- Simple navigation across all pages
-- Community-focused branding and messaging
-- Service cards with direct navigation from the home page
-- Contact form UI for user inquiries
+- **Home Page**: Welcome section with hero image and navigation
+- **About**: Information about the organization and its mission
+- **Services**: Detailed breakdown of available services:
+  - Community Help
+  - Education
+  - Health Support
+  - Counselling
+- **Contact**: Contact information and forms
 
-## Notes
+## Technologies Used
 
-- Tailwind CSS is loaded from the CDN, so an internet connection is needed for styling to appear correctly.
-- The contact form currently provides the interface only and is not connected to a backend.
+- HTML5
+- Tailwind CSS (via CDN)
+- Responsive design
 
-## Author
+## Getting Started
 
-Created as part of the SocialCare website project.
+### Prerequisites
+
+- A web browser (Chrome, Firefox, Safari, etc.)
+- Internet connection for Tailwind CSS CDN
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/gabrielngige/socialcare.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd socialcare
+   ```
+
+3. Open `index.html` in your web browser to view the site.
+
+## Usage
+
+Simply open any of the HTML files in a web browser to navigate through the site. The navigation bar allows easy access to all sections.
+
+## Contributors
+
+Contributions are:
+   Gabriel Ngige.
+   Keith Mutugi.
+   Samson Morara.
+   Ryan Guchu.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## Contact
+
+For questions or support, please visit the Contact page on the website.
