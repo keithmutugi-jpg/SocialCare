@@ -23,31 +23,14 @@ This project is a static website designed to share information about SocialCare'
 - HTML5
 - Tailwind CSS via CDN
 
-## How To Run
-
-Because this is a static website, you can open `index.html` directly in your browser.
-
-If you want to run it with a local server, you can use:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then open:
-
-```text
-http://localhost:8000
-```
-
 ## Project Structure
 
-```text
-SocialCare/
-├── index.html
-├── about.html
-├── services.html
-├── contact.html
-└── README.md
+SocialCare
+index.html
+about.html
+services.html
+contact.html
+README.md
 ```
 
 ## Features
