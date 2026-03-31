@@ -34,7 +34,7 @@ SocialCare is a web platform designed to help communities access essential socia
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gabrielngige/socialcare.git
+   git clone https://github.com/keithmutugi-jpg/SocialCare.git
    ```
 
 2. Navigate to the project directory:
